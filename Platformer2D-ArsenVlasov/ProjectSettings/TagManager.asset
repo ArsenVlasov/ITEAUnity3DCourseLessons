@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Platforms
+  - Items
+  - Counters
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 395157461
+    locked: 0
+  - name: Platforms
+    uniqueID: 2023414623
+    locked: 0
+  - name: Items
+    uniqueID: 2968005325
+    locked: 0
+  - name: New Layer
+    uniqueID: 975853153
     locked: 0
